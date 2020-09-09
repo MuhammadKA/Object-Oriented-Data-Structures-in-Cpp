@@ -5,4 +5,4 @@ https://drive.google.com/drive/folders/1HwUXYdn_ZVtQ03ZVzjPCdD8IJ7k2VnKr?usp=sha
 
 You can also find my notes on the course in this notebook which I'll try to keep it updated as I continue to deepen my knowledge in Cpp.
 https://www.notion.so/C-7fabc41a5aa34d3c8c83b1467219e6ff
-Feel free to share it :)
+Feel free to reuse it :)
